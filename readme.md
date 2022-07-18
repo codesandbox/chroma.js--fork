@@ -8,6 +8,8 @@
 
 Install from npm
 
+test text
+
 ```
 npm install chroma-js
 ```
